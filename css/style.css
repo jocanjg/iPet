@@ -182,10 +182,10 @@ body {
 /* Bootstrap Custom */
 .bg-primary {
 	background-color: 
-	blue !important;
+	#004AAD !important;
 }
 .text-primary {
-	color: blue !important;
+	color: #004AAD !important;
 }
 .btn-lg {
 	font-size: 17px;
@@ -193,8 +193,8 @@ body {
 	font-weight: 600;
 }
 .btn-primary, .btn-outline-primary:hover {
-	background: blue;
-	border-color: blue;
+	background: #004AAD;
+	border-color: #004AAD;
 }
 .btn-primary:hover, .btn-primary:focus {
 	background: #46007f;
@@ -203,7 +203,7 @@ body {
 .btn-outline-primary {
 	background: rgb(101 4 181 / 12%);
 	border-color: rgb(101 4 181 / 11%);
-	color: blue;
+	color: #004AAD;
 }
 .main-logo {
 	height: 32px;
@@ -224,8 +224,8 @@ body {
 	font-size: 13px;
 }
 .form-check-input:checked {
-	background-color: blue;
-	border-color: blue;
+	background-color: #004AAD;
+	border-color: #004AAD;
 }
 .btn-outline-secondary {
 	border-color: #dee2e6;
@@ -236,17 +236,17 @@ body {
 	border-color: #d8d8d8;
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-	background-color: blue;
+	background-color: #004AAD;
 }
 .nav-link, .nav-link:hover {
-	color: blue;
+	color: #004AAD;
 }
 .border-primary {
 	border-color: #d8d8d8 !important;
 }
 .accordion-button:not(.collapsed) {
 	background: #e7dcf2;
-	color: blue;
+	color: #004AAD;
 }
 :focus {
 	box-shadow: none !important;
